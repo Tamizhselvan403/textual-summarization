@@ -1,0 +1,52 @@
+            Abstract
+Aim of our project is to summarize the text 
+
+It can Summarize the paragraph present in the document and extract the information of the orginal document 
+
+And it mainly concentrated to provide the important information of the document
+
+Because due to massive amount of data available on the internet so it's difficult to read all the data for the human being so we use the summarization to make it .
+
+Needless information and repetitive content makes us skip valuable articles and news.
+
+Buy using this summarization techniques can reduce the human effort.
+
+             Problem statement
+By using the Automatic summarization it can preserve the  important meaning and key content of the original document 
+
+we are introducing the quick glance methods for giving the input in the various stages to sumarize the paragraph.
+
+The various stages of the input can be Textbox summarization Url summarization File summarization.
+
+             Existing system
+previously They have developed only one formate summarization
+That can be Texbox Summarization was implemented
+
+Various methods for summarization were proposed which include extraction-based, abstraction-based
+
+
+
+   
+                proposed system
+Pre-processing
+   tokenizing the white space, a lower-case conversion, removing the punctuations, numbers and empty strings from each token
+
+pre Trained sentence model
+It has pre-defined vectors for each word in a sentence. 
+
+Positional encoding method
+
+positional encoding is used to effectively reflect sequential information, 
+
+PCA (PRINCIPAL COMPONENT ANALYSIS)
+
+PCA is a method for reducing high-dimensional data to lower dimensions.
+
+PCA is a method for reducing high-dimensional data to lower dimensions. The principal components (PCs) extracted by PCA are composed of a linear combination of the original variables. 
+
+PCA is a method for reducing high-dimensional data to lower dimensions. The principal components (PCs) extracted by PCA are composed of a linear combination of the original variables. 
+
+INTEGER LINEAR PROGRAMMING
+    
+      The INTEGER LINEAR PROGRAMMING is a optimization problem is formulated 
+because the minimum extraction unit is a sentence, not a concept.
